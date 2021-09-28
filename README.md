@@ -2,6 +2,9 @@
 
 This library is made using [React Bootstrap](https://react-bootstrap.github.io), [Bootstrap](https://getbootstrap.com/) and [Storybook](https://storybook.js.org/) and many more amazing components.
 
+**Components:**
+[React scrollspy](https://github.com/toviszsolt/react-scrollspy)
+
 ## Getting started
 
 To install all pre-requisites:
